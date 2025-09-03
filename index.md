@@ -1,4 +1,4 @@
-# Hi, I'm <Innayah Shaznin>
+# Hi, I'm Innayah Shaznin
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
