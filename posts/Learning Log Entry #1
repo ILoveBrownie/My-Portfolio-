@@ -10,8 +10,9 @@ All Variables used so far in my code:
 PImage loid, map, greatWall, enemy, gems, forest, Level2Element, longwall,
   greatwall, enemyGem, rock;
 - names used for all images which has been used so far in the game
+- map is being used in the introduction page, loid image is moved using keys in every game,  
 
-String label = "Welcome to the Five Wonders Of the World!!";
+String label = "Welcome to the Five Wonders of the World!!";
 - This is used to show the title page and start the game with a mini ecxiting introduction.
 
 int [] enemyX, enemyY, enemySpeedX, enemySpeedY, gemX, gemY;
