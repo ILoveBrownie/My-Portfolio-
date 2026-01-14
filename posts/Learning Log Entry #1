@@ -1,13 +1,34 @@
 Variables & Data Tracking (submit it during week 1)– Discuss the types of variables you used, why different variables were needed. 
-Selection Structure – Identify where you used control structures and explain what problem the decision solved in your game.
-Repetition Structure – Choose one loop implementation and explain its purpose and how it works.
-Arrays & Data Structures – Provide array snippet(s) and explain how you store multiple items, how you access them, and how they support your program.
-Use of Custom Functions & Error Checking/Restrictions – Select a couple of key methods you wrote, explain their purpose and how they support the game, and describe any error checking or restrictions built into your program.
+
 Each entry should include:
 
 What concept (from the list above) did you implement? State the topic clearly and include a relevant code snippet.
 Where did you use it, and why did you implement it that way? Explain the purpose of the code and your reasoning behind the approach you chose.
 What challenges did you encounter, and how did you fix them? Describe any issues you faced and the steps you took to resolve them.
 
+All Variables used so far in my code:
+PImage loid, map, greatWall, enemy, gems, forest, Level2Element, longwall,
+  greatwall, enemyGem, rock;
+- names used for all images which has been used so far in the game
 
+String label = "Welcome to the Five Wonders Of the World!!";
+- This is used to show the title page and start the game with a mini ecxiting introduction.
+
+int [] enemyX, enemyY, enemySpeedX, enemySpeedY, gemX, gemY;
+- This is used for the movements of objects in the second game (added by Preethi)
+
+loidX = 500, loidY = 300, loidSpeed = 10;
+- Character will start with an initial position and the variable is used to chnage position as the character is controlled by keys
+
+boolean left = false, right = false, up = false, down = false;
+
+int life = 10, int score = 0;
+- record the number of lives and score to keep track of player's progress
+
+screen = 0
+- adding a value to this variable everytime the screen is changed to differentiate pages being used in the game 
+- for example( intro page will be screen = 0 , rules page will be screen = 1 and so on)
+
+int[] rockX, rockY, rockSpeed, enemyGemX, enemyGemY, enemyGemSpeed;
+- This is used for the movements of objects in the first game
 
