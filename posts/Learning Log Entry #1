@@ -1,1 +1,13 @@
+Variables & Data Tracking (submit it during week 1)– Discuss the types of variables you used, why different variables were needed. 
+Selection Structure – Identify where you used control structures and explain what problem the decision solved in your game.
+Repetition Structure – Choose one loop implementation and explain its purpose and how it works.
+Arrays & Data Structures – Provide array snippet(s) and explain how you store multiple items, how you access them, and how they support your program.
+Use of Custom Functions & Error Checking/Restrictions – Select a couple of key methods you wrote, explain their purpose and how they support the game, and describe any error checking or restrictions built into your program.
+Each entry should include:
+
+What concept (from the list above) did you implement? State the topic clearly and include a relevant code snippet.
+Where did you use it, and why did you implement it that way? Explain the purpose of the code and your reasoning behind the approach you chose.
+What challenges did you encounter, and how did you fix them? Describe any issues you faced and the steps you took to resolve them.
+
+
 
