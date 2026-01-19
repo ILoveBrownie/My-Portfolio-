@@ -11,13 +11,13 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 - CULMINATING LOG ENTRIES:
 - Learning Log Entry #1: [Learning_Log_Entry_One](posts/Learning_Log_Entry_One.md)
 
-- Learning Log Entry #2: [Learning_Log_Entry_#2](posts/Learning_Log_Entry_#2.md)
+- Learning Log Entry #2: [Learning_Log_Entry_Two](posts/Learning_Log_Entry_#2.md)
 
-- Learning Log Entry #3: [Learning_Log_Entry_#3](posts/Learning_Log_Entry_#3.md)
+- Learning Log Entry #3: [Learning_Log_Entry_Three](posts/Learning_Log_Entry_#3.md)
   
-- Learning Log Entry #4: [Learning_Log_Entry_#4](posts/Learning_Log_Entry_#4.md)
+- Learning Log Entry #4: [Learning_Log_Entry_Four](posts/Learning_Log_Entry_#4.md)
   
-- Learning Log Entry #5: [Learning_Log_Entry_#5](posts/Learning_Log_Entry_#5.md)
+- Learning Log Entry #5: [Learning_Log_Entry_Five](posts/Learning_Log_Entry_#5.md)
 
 -  https://github.com/ILoveBrownie/My-Portfolio-/tree/main/posts
 
