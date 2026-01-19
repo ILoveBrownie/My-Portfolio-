@@ -1,0 +1,23 @@
+Arrays & Data Structures – Provide array snippet(s) and explain how you store multiple items, how you
+access them, and how they support your program. 
+
+/* Arrays have been used throughout the game as they can store more than 
+one variable. Each level contains the same copies of objects, which requires
+an array variable to store the values. Arrays help with the X and Y coordinates
+of each object, which can be used in a for loop to call all of them together.
+It is very efficient as it allows each item to be called by the same 
+variable. Arrays and for loops go hand in hand since the for loop helps
+call all the items in the array at once. 
+*/
+for (int i = 0; i < rockX.length; i++) {
+    image(rock, rockX[i], rockY[i], 100, 100);
+    rockY[i] += rockSpeed[i];
+    life = updateLives(i, life);
+
+/* In this example, each time the for loop runs, the item at (i) is
+called. This is effective in this rock-falling animation. It starts 
+with the picture being called in the coordinates of rockX[0] and rockY[0].
+Next, that same picture moves down at the first speed value 
+in the array rockSpeed[0].*/
+
+   
