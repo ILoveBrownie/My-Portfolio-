@@ -19,7 +19,7 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
   
 - Learning Log Entry #5: [Learning_Log_Entry_#5](posts/Learning_Log_Entry_#5.md)
 
--  (https://github.com/ILoveBrownie/My-Portfolio-/tree/main/posts)
+-  https://github.com/ILoveBrownie/My-Portfolio-/tree/main/posts
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
