@@ -2,12 +2,10 @@
 Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: *(Digital Citizenship)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+- 🔧 Project 1: *(Digital Citizenship)* 
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
-- 🔧 Project 1: *(Name Plate)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+- 🔧 Project 1: *(Name Plate Assignment)* 
 - 📝 Blog/Reflection: [Reflection #2](./posts/second.md)
 
 ## About me
