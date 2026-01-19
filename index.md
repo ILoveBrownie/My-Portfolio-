@@ -9,6 +9,11 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #2](./posts/second.md)
 
 - Culminating Log Entries
+- Learning Log Entry #1: [Entry #1](.posts/Learning_Log_Entry_#1.md)
+- Learning Log Entry #2: [Entry #2](posts/Learning_Log_Entry_#2.md)
+- Learning Log Entry #3: [Entry #3](posts/Learning_Log_Entry_#3.md)
+- Learning Log Entry #4: [Entry #4](posts/Learning_Log_Entry_#4.md)
+- Learning Log Entry #5: [Entry #5](posts/Learning_Log_Entry_#5.md)
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
