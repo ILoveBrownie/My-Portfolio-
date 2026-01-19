@@ -19,6 +19,8 @@ Welcome to my ICS3U portfolio. I’ll use this site to post my work and reflecti
   
 - Learning Log Entry #5: [Learning_Log_Entry_#5](posts/Learning_Log_Entry_#5.md)
 
+-  (https://github.com/ILoveBrownie/My-Portfolio-/tree/main/posts)
+
 ## About me
 A short intro (interests, goals, tools I’m learning).
 Hi! I am 15 years old. I enjoy badmintom, swimming and taekwondo. I like all form of art especially paper crafts. I wish to become a doctor in the future. 
